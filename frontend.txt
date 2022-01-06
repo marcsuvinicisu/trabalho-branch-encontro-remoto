@@ -1,0 +1,4 @@
+(Usuário do Aplicativo)
+Linha de código do usuário 1
+Linha de código do usuário 2
+Linha de código do usuário 3
