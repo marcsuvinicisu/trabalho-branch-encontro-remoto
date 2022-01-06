@@ -2,3 +2,8 @@
 Linha de código da interface 1
 Linha de código da interface 2
 Linha de código da interface 3
+
+(Usuário do Aplicativo)
+Linha de código do usuário 1
+Linha de código do usuário 2
+Linha de código do usuário 3
